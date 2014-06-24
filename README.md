@@ -12,6 +12,7 @@ Run this for pwnage:
 
 
 If you want to use this to teach infidels too lock their screen you have to make a fork.
+Because for obvious reasons I wont be sharing the private key.
 
 Steps to teaching infidels
 
