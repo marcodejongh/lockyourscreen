@@ -14,6 +14,7 @@ Run this for pwnage:
 If you want to use this to teach infidels too lock their screen you have to make a fork.
 
 Steps to teaching infidels
+
 1. Fork this project
 
 2. Change setup.sh to curl https://raw.githubusercontent.com/#YOURGITHUBACCOUNT#/lockyourscreen/master/id_lockyourscreen.pub
