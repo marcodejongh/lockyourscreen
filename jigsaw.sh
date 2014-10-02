@@ -1,2 +1,2 @@
 #!/bin/sh
-while :; do say -v Whisper "is anybody there"; sleep 3; done &
+while :;do say -v Whisper "Is anybody there?";sleep $(($RANDOM%50+10));done &
